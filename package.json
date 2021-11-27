@@ -1,0 +1,14 @@
+{
+  "name": "grupal_2",
+  "version": "1.0.0",
+  "description": "Renzo Ibanez, Jesus Ricardez, Maria Perez, Andres Lupian, Alejandro Flores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Renzo Ibanez",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
